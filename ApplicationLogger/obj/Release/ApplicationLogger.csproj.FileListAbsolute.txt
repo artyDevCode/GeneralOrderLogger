@@ -1,0 +1,45 @@
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\bin\Release\ApplicationLogger.dll.config
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\bin\Release\ApplicationLogger.dll
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\bin\Release\ApplicationLogger.pdb
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\bin\Release\EntityFramework.dll
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\bin\Release\EntityFramework.xml
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\obj\Release\ApplicationLogger.dll
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\obj\Release\ApplicationLogger.pdb
+C:\Users\arty\Source\Workspaces\OCPC ILD Projects\RemoveTRIMRevisions\ApplicationLogger\obj\Release\ApplicationLogger.csprojResolveAssemblyReference.cache
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\ApplicationLogger.dll.config
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\ApplicationLogger.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\ApplicationLogger.pdb
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\EntityFramework.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\EntityFramework.xml
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\obj\Release\ApplicationLogger.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\obj\Release\ApplicationLogger.pdb
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\log4net.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\OCPCTrim\ApplicationLogger\bin\Release\log4net.xml
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\ApplicationLogger.dll.config
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\ApplicationLogger.dll
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\ApplicationLogger.pdb
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\EntityFramework.dll
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\log4net.dll
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\EntityFramework.xml
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\bin\Release\log4net.xml
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\obj\Release\ApplicationLogger.csprojResolveAssemblyReference.cache
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\obj\Release\ApplicationLogger.dll
+C:\Users\arty\Documents\Visual Studio 2017\Projects\OCPCTrim-Async\ApplicationLogger\obj\Release\ApplicationLogger.pdb
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\ApplicationLogger.dll.config
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\ApplicationLogger.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\ApplicationLogger.pdb
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\EntityFramework.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\log4net.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\EntityFramework.xml
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\bin\Release\log4net.xml
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\obj\Release\ApplicationLogger.dll
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\obj\Release\ApplicationLogger.pdb
+C:\Users\arty\Source\Workspaces\OCPC Projects\ApplicationLogger\ApplicationLogger\obj\Release\ApplicationLogger.csprojResolveAssemblyReference.cache
